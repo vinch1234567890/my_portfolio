@@ -1,4 +1,7 @@
 {
-  "name": "my-portfolio",
-  "slug": "my-portfolio"
+  "expo": {
+    "entryPoint": "./app/index.tsx",
+    "name": "my-portfolio",
+    "slug": "my-portfolio"
+  }
 }
